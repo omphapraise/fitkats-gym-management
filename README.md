@@ -45,12 +45,11 @@ fitkats-sandton/
 
 ## Team
 
-| Name |         Student Number | Role |
+| Name | Student Number | Role |
 |---|---|---|
-| Ompha mabila 	10442002   | Project Manager |
-Wandile Khumalo 	10461565 |  | Frontend Developer |
-Kutloano machate 	10448398 |  | Lead Developer |
-
+| [ompha mabila] | [10442002] | Project Manager |
+| [wandile khumalo] | [10461565] | Lead Developer |
+| [kutloano machate ] | [10448398] | Frontend Developer |
 
 ## How to Run
 
