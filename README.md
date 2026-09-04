@@ -45,7 +45,7 @@ fitkats-sandton/
 
 ## Team
 
-| Name | Student Number | Role |
+| Name |         Student Number | Role |
 |---|---|---|
 | Ompha mabila 	10442002   | Project Manager |
 Wandile Khumalo 	10461565 |  | Frontend Developer |
