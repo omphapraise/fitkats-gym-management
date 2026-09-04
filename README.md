@@ -56,9 +56,7 @@ fitkats-sandton/
 1. Clone the repository: `git clone [repo URL]`
 2. Open `index.html` in your browser — no build step required.
 
-## Screenshots
 
-[Insert 2–3 screenshots of key pages here — homepage, member dashboard, staff dashboard]
 
 ## Module
 
